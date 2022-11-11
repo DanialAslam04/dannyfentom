@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/danial04">
+  <a href=https://www.linkedin.com/in/danial04/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -19,9 +19,11 @@
 </div>
 
 <h1 align="center">
-  hey there
-  I'm Muhammad Danial Aslam
+  hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+  I'm Muhammad Danial Aslam
+  
 </h1>
 
 <div align="center">
@@ -31,7 +33,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+## Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 - :telescope: I am a Machine Learning Practitioner and have a passion to solve real-world problems.
 
@@ -39,8 +41,7 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I play chess and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/danial04)
-
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danial04/) [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://danialaslam04@gmail.com)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
