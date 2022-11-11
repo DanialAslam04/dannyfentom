@@ -19,7 +19,7 @@
 </div>
 
 <h1 align="center">
-  hi there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
   I'm Muhammad Danial Aslam
@@ -32,8 +32,8 @@
 
 ---
 
-### :man_technologist: About Me :
-## Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+### 👨‍🎓: About Me :
+## Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I am a Machine Learning Practitioner and have a passion to solve real-world problems.
 
