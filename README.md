@@ -37,7 +37,7 @@
 
 - :telescope: I am a Machine Learning Practitioner and have a passion to solve real-world problems.
 
-- :seedling: I’m currently learning Python.
+- :seedling: I’m currently learning Python and DSA.
 
 - :zap: In my free time, I play chess and read tech articles.
 
